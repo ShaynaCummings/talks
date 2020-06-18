@@ -7,6 +7,7 @@ Recordings and resources for software engineers
 
 - [Weighted matrix for comparing companies (template)](https://docs.google.com/spreadsheets/d/1YU993rZ87P_xi6jfPI7IIqzZROkRBOFnHY-ChDWvCUw/edit?usp=sharing)
 - [Questions to help self-reflection during your search](./self-reflection-questions.md) 
+- [Things to research about a company before you interview](./company-research.md)
 
 
 ## Talk recordings & decks

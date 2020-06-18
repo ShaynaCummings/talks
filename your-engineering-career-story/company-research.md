@@ -1,0 +1,28 @@
+# Things to research about a company before you interview
+
+- Get a picture of the whole interview process
+  - What kind of rounds and how many? What kind of topics will be covered?
+  - Whiteboarding?
+- Your interviewers
+  - Who are they and what are their roles, skills, backgrounds?
+  - How long have they been there? Have they moved up within the company?
+  - Have specific questions for each person you'll be speaking with
+- Company/product/business
+  - What does the company do? What services/products does it provide and why?
+  - What is the company's business model? How do they make money? How stable is it?
+  - Who are its competitors? How competitive is the space? What risks exist?
+- Users/stakeholders
+  - What do the users/stakeholders want from this company? Are they happy? Look for reviews/social media
+  - What makes users/stakeholders abandon this company for its competitors?
+- Company culture and values: check their "about us" page, social media
+- Tech stack
+  - What are the main languages, frameworks, tools, they use? 
+  - Do they have any open source projects? 
+  - Has anyone from the company authored a notable article or given a talk at a recent technical conference?
+- The role you're applying for
+  - What themes/patterns do you see in the language from the job description?
+  - What makes a person successful generally in this kind of role (in this company or at others like it)?
+  - Who else is in this role and what is their background?
+  - For people in this kind of role, what do they go on to do after a few years?
+- Compensation
+  - What are people being paid in this role at this company? At similar companies?
